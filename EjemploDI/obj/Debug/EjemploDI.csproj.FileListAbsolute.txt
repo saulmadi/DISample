@@ -1,0 +1,8 @@
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\bin\Debug\EjemploDI.exe.config
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\bin\Debug\EjemploDI.exe
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\bin\Debug\EjemploDI.pdb
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\obj\Debug\EjemploDI.csprojResolveAssemblyReference.cache
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\obj\Debug\EjemploDI.exe
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\obj\Debug\EjemploDI.pdb
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\bin\Debug\Autofac.dll
+C:\Users\Saul-Pc\Empresa\EjemploDI\EjemploDI\bin\Debug\Autofac.xml
